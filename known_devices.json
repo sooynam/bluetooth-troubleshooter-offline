@@ -1,1 +1,29 @@
+{
+    "Xiaomi": [
+        {
+            "model": "Redmi Buds 3",
+            "type": "earphone"
+        },
+        {
+            "model": "Redmi Sonic",
+            "type": "headphone"
+        }
+    ],
+    "Logitech": [
+        {
+            "model": "M590",
+            "type": "mouse"
+        },
+        {
+            "model": "MX Master 3",
+            "type": "mouse"
+        }
+    ],
+    "JBL": [
+        {
+            "model": "Tune 660NC",
+            "type": "headphone"
+        }
+    ]
+}
 
